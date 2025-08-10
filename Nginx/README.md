@@ -1,1 +1,2 @@
+Server Structure.
 ![Nginx Server Architecture](./Screenshot%202025-08-10%20175351.png)
